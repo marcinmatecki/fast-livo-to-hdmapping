@@ -1,5 +1,5 @@
-[submodule "src/FAST_LIVO"]
-	path = src/FAST_LIVO
+[submodule "src/FAST-LIVO"]
+	path = src/FAST-LIVO
 	url = https://github.com/hku-mars/FAST-LIVO.git
 [submodule "src/cpp_pubsub/src/3rdparty/LASzip"]
 	path = src/cpp_pubsub/src/3rdparty/LASzip
