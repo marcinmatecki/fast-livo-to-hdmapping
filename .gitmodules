@@ -7,8 +7,6 @@
 [submodule "src/livox_ros_driver"]
         path = src/livox_ros_driver
 	url = https://github.com/Livox-SDK/livox_ros_driver.git
-
-
 [submodule "src/Sophus"]
 	path = src/Sophus
 	url = https://github.com/strasdat/Sophus.git
